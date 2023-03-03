@@ -1,0 +1,59 @@
+@charset "UTF-8";
+.bg-dark {
+    background-color: #A000B6 !important;
+}
+.navbar-dark .navbar-nav .nav-link {
+    font-family: source-sans-pro;
+    color: #FFFFFF;
+    font-style: normal;
+	font-weight: 400;
+}
+.navbar-nav .nav-item {
+    border: 1px solid #6B048C;
+    background-image: -webkit-linear-gradient(270deg,rgba(245,178,255,1.00) 0%,rgba(148,38,255,1.00) 100%,rgba(255,255,51,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(245,178,255,1.00) 0%,rgba(148,38,255,1.00) 100%,rgba(255,255,51,1.00) 100%);
+    margin-left: 4px;
+    margin-right: 4px;
+    text-align: center;
+    width: 108px;
+}
+header h2 {
+    font: 350%/1em Impact;
+    color: #FF00FD;
+    text-shadow: 0px 5px 11.05px rgba(255,255,255,0.56);
+    text-align: center;
+    margin-top: 1em;
+    letter-spacing: 0.12em;
+}
+header p {
+    line-height: 1em;
+    font-weight: 700;
+    font-size: 150%;
+    font-family: source-sans-pro;
+    color: #ffffff;
+    text-shadow: 0px 3px 5.95px rgba(0, 0, 0, 0.8);
+    text-align: center;
+    letter-spacing: 0.4em;
+    font-style: normal;
+}
+header {
+	background-image: url(images/favcity-logo.jpg);
+	background-position: center center;
+	background-size: 80% auto;
+	background-repeat: no-repeat;
+	height: 212px;
+	background-color: #F800FF
+}
+nav .container {
+    padding-bottom: 10px;
+    border-bottom: 2px solid #FF3;
+}
+body {
+    border-left: 15px solid #7D00F7;
+    border-right: 15px solid #7D00F7;
+}
+footer {
+    padding-top: 5px;
+    color: #FF97E8;
+	background-color: #7D00F7;
+}
