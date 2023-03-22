@@ -1,7 +1,8 @@
-@charset "UTF-8";
+@charset "utf-8";
 .bg-dark {
-    background-color: #A000B6 !important;
+    background-color: #FFBDC9 !important;
 }
+
 .navbar-dark .navbar-nav .nav-link {
     font-family: source-sans-pro;
     color: #FFFFFF;
@@ -9,19 +10,21 @@
 	font-weight: 400;
 }
 .navbar-nav .nav-item {
-    border: 1px solid #6B048C;
-    background-image: -webkit-linear-gradient(270deg,rgba(245,178,255,1.00) 0%,rgba(148,38,255,1.00) 100%,rgba(255,255,51,1.00) 100%);
-    background-image: -moz-linear-gradient(270deg,rgba(245,178,255,1.00) 0%,rgba(148,38,255,1.00) 100%,rgba(255,255,51,1.00) 100%);
+    border: 1px solid #FFBDC9;
+    background-image: -webkit-linear-gradient(270deg,rgba(255,202,211,1.00) 0%,rgba(255,112,137,1.00) 100%,rgba(241,227,76,1.00) 100%,rgba(255,255,51,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,202,211,1.00) 0%,rgba(255,112,137,1.00) 100%,rgba(241,227,76,1.00) 100%,rgba(255,255,51,1.00) 100%);
     margin-left: 4px;
     margin-right: 4px;
     text-align: center;
     width: 108px;
+    background-image: -o-linear-gradient(270deg,rgba(255,202,211,1.00) 0%,rgba(255,112,137,1.00) 100%,rgba(241,227,76,1.00) 100%,rgba(255,255,51,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,202,211,1.00) 0%,rgba(255,112,137,1.00) 100%,rgba(241,227,76,1.00) 100%,rgba(255,255,51,1.00) 100%);
 }
 header h2 {
     font: 350%/1em Impact;
-    color: #FF00FD;
-    text-shadow: 0px 5px 11.05px rgba(255,255,255,0.56);
-    text-align: center;
+    color: #FFBDC9;
+    text-shadow: 0px 5px 11.05px rgba(0, 0, 0, 0.56);
+	text-align: center;
     margin-top: 1em;
     letter-spacing: 0.12em;
 }
@@ -30,30 +33,31 @@ header p {
     font-weight: 700;
     font-size: 150%;
     font-family: source-sans-pro;
-    color: #ffffff;
+    color: #FFBDC9;
     text-shadow: 0px 3px 5.95px rgba(0, 0, 0, 0.8);
     text-align: center;
     letter-spacing: 0.4em;
     font-style: normal;
 }
 header {
-	background-image: url(images/favcity-logo.jpg);
+	background-image: url("images/Brown_Banner.jpg");
 	background-position: center center;
 	background-size: 80% auto;
 	background-repeat: no-repeat;
 	height: 212px;
-	background-color: #F800FF
-}
-nav .container {
-    padding-bottom: 10px;
-    border-bottom: 2px solid #FF3;
+	background-color: #FFBDC9
 }
 body {
-    border-left: 15px solid #7D00F7;
-    border-right: 15px solid #7D00F7;
+    border-left: 15px solid #FFBDC9;
+    border-right: 15px solid #FFBDC9;
+
 }
 footer {
     padding-top: 5px;
-    color: #FF97E8;
-	background-color: #7D00F7;
+    color: #FFDFE7;
+    background-color: #FFBDC9;
+}
+address {
+    color: #FFDFE7;
+
 }
