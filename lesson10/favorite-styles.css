@@ -7,14 +7,17 @@
     font-family: source-sans-pro;
     color: #FFFFFF;
     font-style: normal;
-	font-weight: 400;
+    font-weight: 400;
+    display: inline-block;
+    list-style-type: none;
+    position: relative;
+    text-align: center;
 }
 .navbar-nav .nav-item {
     border: 1px solid #FFBDC9;
     background-image: -webkit-linear-gradient(270deg,rgba(255,202,211,1.00) 0%,rgba(255,112,137,1.00) 100%,rgba(241,227,76,1.00) 100%,rgba(255,255,51,1.00) 100%);
-    background-image: -moz-linear-gradient(270deg,rgba(255,202,211,1.00) 0%,rgba(255,112,137,1.00) 100%,rgba(241,227,76,1.00) 100%,rgba(255,255,51,1.00) 100%);
-    margin-left: 4px;
-    margin-right: 4px;
+    margin-left: 71px;
+    margin-right: 102px;
     text-align: center;
     width: 108px;
     background-image: -o-linear-gradient(270deg,rgba(255,202,211,1.00) 0%,rgba(255,112,137,1.00) 100%,rgba(241,227,76,1.00) 100%,rgba(255,255,51,1.00) 100%);
