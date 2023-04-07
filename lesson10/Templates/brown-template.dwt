@@ -17,8 +17,8 @@
 	<meta name="description" content="Alexander J. Brown - add description here"><!-- TemplateEndEditable -->
 </head>
   <body>
-  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-    <div class="container"> <a class="navbar-brand" href="../index.html">Alexander J. Brown</a>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <div class="container"> <a class="navbar-brand" href="../contact-me.html">Alexander J. Brown</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
     <!-- Centered link -->  
 	<div class="topnav" id="navbarSupportedContent">
@@ -33,7 +33,7 @@
   </nav>
   <header class="row">
     <div class="col-xl-12">
-      <h2><a href="../index.html">ALEXANDER J. BROWN</a></h2>
+      <h2><a href="../Event From The Past.html">ALEXANDER J. BROWN</a></h2>
       <p>MASS COMMUNICATIONS / CREATIVE WRITING STUDENT</p>
     </div>
   </header>
@@ -75,7 +75,7 @@
             <strong>Alexander J. Brown</strong><br>
             Southern Illinois University Edwardsville<br>
             Edwardsvile, IL 62025<br>
-            <abbr title="Phone">P:</abbr> (618) 795-7475
+            <abbr title="Phone">P:</abbr> <a href="tel:16187957475">(618) 795-7475</a>
           </address>
           <address class="col-lg-6">
             <strong>Send Me an Email!</strong><br>
